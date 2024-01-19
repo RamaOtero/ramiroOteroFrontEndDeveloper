@@ -10,9 +10,10 @@
     align-items: center;
     flex-direction: row;
     gap: 20px;
-    margin-top: 20px;
+    margin-top: 30px;
     flex-wrap: wrap;
     justify-content: center;
+    gap: 3rem;
 }
 
 .header-info{
@@ -24,8 +25,13 @@
    cursor: default;
 }
 
+.header-info h1 {
+  font-size: 3rem;
+}
+
 h1{
     color: rgb(255, 255, 255);
+    font-weight: 800;
 }
 
 .perfilFoto{

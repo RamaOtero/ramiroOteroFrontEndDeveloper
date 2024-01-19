@@ -1,0 +1,17 @@
+@import url(../../assets/fonts/css/satoshi.css);
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+  }
+
+  .title{
+    color: whitesmoke;
+    display: flex;
+    align-items: center;
+    gap: 5px;
+    font-family: Satoshi-Light;
+    margin-bottom: 20px;
+    padding-bottom: 10px;
+    border-bottom: 1px solid rgba(245, 245, 245, 0.144);
+}

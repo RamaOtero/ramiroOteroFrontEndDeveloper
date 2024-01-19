@@ -8,9 +8,9 @@ function Header() {
         <div className='header-info'>
             <h1>Ramiro Otero</h1>
             <h3>Front End Developer</h3>
-            <h5>System engineer in process, graphic designer as a hobby.</h5>
+            <h5>Ingenierio en sistemas in process, diseñador gráfico como hobby.</h5>
             <a href={cvDownload} download="CvRamiroOteroFrontEnd.pdf">
-            <button className="bttnCv"> Download Resume </button>
+            <button className="bttnCv"> Descargar CV </button>
             </a>
         </div>
     </main>

@@ -1,4 +1,3 @@
-import jobIcon from '../../assets/jobIcon.png'
 import { ComponentExperience } from './ComponentExperience'
 import './experience.css'
 import A3Sport from '../../assets/screenshotA3.png'
@@ -8,7 +7,7 @@ function Experience() {
   return (
     <div className="experience">
         <div className="title">
-            <h3>Experience</h3>
+            <h3>Experiencia</h3>
 
         </div>
         <section className="sectionExperience">

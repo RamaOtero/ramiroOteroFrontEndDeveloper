@@ -10,10 +10,16 @@
     display: flex;
     align-items: center;
     gap: 5px;
+    flex-wrap: wrap;
     font-family: Satoshi-Light;
     margin-bottom: 20px;
     padding-bottom: 10px;
     border-bottom: 1px solid rgba(245, 245, 245, 0.144);
+}
+.title h5{
+  margin-top: 3px;
+  font-family: Satoshi-Light;
+  font-weight: 100;
 }
 
 .practiceSquare{

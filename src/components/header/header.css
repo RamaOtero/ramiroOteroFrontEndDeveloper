@@ -38,6 +38,7 @@ h1{
     width: 200px;
     border-radius: 100%;
     border: 5px solid #11171f;
+    box-shadow: 4px 4px 5px #000000;
 }
 
 .bttnCv {
